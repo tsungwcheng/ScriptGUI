@@ -1,0 +1,20 @@
+Cmd: *idn?
+     Result: CB-3U18S-6x8-ENET
+Cmd: *opc?
+     Result: 1
+Cmd: *rst
+     Result is not valid
+Cmd: get:dhcp
+     Result: ON
+Cmd: syst:serialnumber?
+     Result: 65535
+Cmd: syst:tcpport?
+     Result: 10
+Cmd: syst:ipaddress?
+     Result: 10.180.50.161
+Cmd: syst:mask?
+     Result: 255.255.255.0
+Cmd: syst:status?
+     Result: SWIT1 0;SWIT2 FF;SWIT3 FF;SWIT4 FF;SWIT5 FF;SWIT6 FF;SWIT11 FF;SWIT12 FF;SWIT13 FF;SWIT14 FF;SWIT15 FF;SWIT16 FF;SWIT17 FF;SWIT18 FF;REM;ERRORS: 10,10,10,10,10,10,10,10,10,10,10,10,10,30,0
+Cmd: syst:timeout?
+     Result: 0

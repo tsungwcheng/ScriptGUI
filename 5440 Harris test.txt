@@ -1,0 +1,10 @@
+*idn?
+*opc?
+*rst
+get:dhcp
+syst:serialnumber?
+syst:tcpport?
+syst:ipaddress?
+syst:mask?
+syst:status?
+syst:timeout?
